@@ -26,7 +26,7 @@ public class Folder {
         return list;
     }
 
-    public List getFeeds() {
+    public List<Feed> getFeeds() {
         return feeds;
     }
 }
